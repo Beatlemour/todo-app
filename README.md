@@ -14,13 +14,13 @@ A simple full-stack TODO list application — view, add, and delete items.
 - Angular CLI (installed automatically via `npx` — no global install required)
 
 ## Project Structure
-
+```
 todo-app/
 ├── backend/ # .NET Web API
 ├── backend.tests/ # xUnit unit + integration tests
 ├── frontend/ # Angular app
 └── README.md
-
+```
 
 ## Running the Backend
 
